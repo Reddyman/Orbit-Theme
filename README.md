@@ -1,10 +1,18 @@
 # Description
 
-Click [here](https://reddyman.github.io/Orbit-Theme/) for a demo!
+Click [here](https://reddyman.github.io/Orbit-Theme/) for a live demo!
+
+![website teaser](sample.png)
 
 This is a basic starter resume website, created for educational purposes for [hackGSU 2019](http://hackgsu.com/).
 
 It utilizes a starter bootstrap template theme, scroll down to [Author](#Author-&-License) and [Credits](#Credits) for more information.
+
+# Requirements
+
+- [GitHub Account](https://github.com/join)
+- [Node.js](https://nodejs.org/en/download/)
+- A good 5 minutes
 
 # Install and Usage
 
