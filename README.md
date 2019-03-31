@@ -16,9 +16,9 @@ It utilizes a starter bootstrap template theme, scroll down to [Author](#Author-
 
 # Install and Usage
 
-First click that sweet fork button on the top-right hand side.
+First, click that sweet fork button on the top-right hand side.
 
-Then navigate to your forked repository and run:
+Then navigate to your forked repository, and run:
 
 ```
 git clone https://github.com/<yourGithubUsername>/Orbit-Theme.git
